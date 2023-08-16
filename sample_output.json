@@ -1,0 +1,25 @@
+{
+    'query': 'Có những loại rau nào dưới mức giá 60,000 VND mà có thể chế biến nhanh và phù hợp cho những người muốn giảm cân', 
+    'result': '{\n
+            "recommendation": [\n
+            {\n      "product_name": "Rau muống",\n
+                     "product_explanation": "Rau muống là loại rau phổ biến và dễ chế biến. Nó có thể được hấp, xào hoặc luộc nhanh. Rau muống có chứa ít calo và chất béo, thích hợp cho những người muốn giảm cân.",\n
+                     "product_image_link": "https://example.com/rau-muong-image",\n
+                     "product_link": "https://example.com/rau-muong",\n
+                      "product_price": "40,000 VND"\n
+            },\n
+            {\n      "product_name": "Rau bina",\n
+                     "product_explanation": "Rau bina có hàm lượng calo và chất béo thấp. Nó có thể được chế biến thành nhiều món như salad, nước chấm hoặc nấu canh. Rau bina cũng có tác dụng giảm cân hiệu quả.",\n
+                     "product_image_link": "https://example.com/rau-bina-image",\n
+                     "product_link": "https://example.com/rau-bina",\n
+                     "product_price": "50,000 VND"\n
+            },\n
+            {\n      "product_name": "Rau cải thảo",\n
+                     "product_explanation": "Rau cải thảo là một loại rau giàu chất xơ và thấp calo. Nó có thể được chế biến thành nhiều món như xào, luộc hoặc nấu canh. Rau cải thảo cũng giúp giảm cân hiệu quả.",\n
+                     "product_image_link": "https://example.com/rau-cai-thao-image",\n
+                     "product_link": "https://example.com/rau-cai-thao",\n
+                     "product_price": "55,000 VND"\n
+            }\n
+        ]\n
+    }'
+}
